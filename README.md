@@ -76,7 +76,7 @@ This ELK server is configured to monitor the following machines:
 Web-1 10.0.0.5
 Web-2 10.0.0.7
 
-We have installed the following Beats on these machines: Filebeat and Metricbeat
+I have installed the following Beats on these machines: Filebeat and Metricbeat
 These Beats allow us to collect the following information from each machine:
 Filebeats collects system events like logins to see who is actively logging into the servers.
 Metricbeats collects information like cpu usage and memory, this is useful when seeing if there are any threatening  programs or process taking system resources
